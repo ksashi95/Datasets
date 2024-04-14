@@ -1,0 +1,13 @@
+systolic,diastolic BP, category,,,BMI,categories
+<90,<60,Low,,,<18.5,underweight
+<120,<80,normal,,,18.5-24.9,healthy
+120-129,<80,elevated,,,25.0-29.9,overweight
+130-139,80-90,Hypertension stage 1,,,>30.0,obese
+>=140,>=90,Hypertension stage 2,,,,
+>180,>120,Hypertensive crisis(emergency),,,,
+,,,,,Age Group,
+,,,,,20-44,
+,,,,,45-64,
+,,,,,65+,
+,,,,,,
+diabetesPedigreeFunction,,,,,,
